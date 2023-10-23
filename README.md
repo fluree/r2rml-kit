@@ -9,7 +9,7 @@
 
 ### Getting Started
 
-1. Open the r2rml-kit repo
+1. Clone this repo and navigate to the proejct directory.
 2. Ensure your JAVA_HOME is set to JDK/JRE 8 (if using 9+, the tool will fail) — you can check this by running
 
 ```
